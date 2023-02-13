@@ -1,2 +1,2 @@
-# cfd-ml
-AI for CFD Interpolation
+# Applying CNNs to interpolate fluid simulations
+more to come
